@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚙️ C++ Quest — 30-Day C++ Challenge
 
 > A self-directed, project-based journey from C++ beginner to confident developer — one day at a time.
@@ -150,3 +151,7 @@ Feel free to fork this repo and run your own C++ Quest. If you have feedback or 
 ---
 
 *Built as part of a self-directed AI & programming learning journey.*
+=======
+# 30-days-of-C-
+⚙️ 30 days. 30 C++ projects. Beginner to Advanced.
+>>>>>>> 7a49b65bc019def02c51e1dea178340d8c60ed4f
